@@ -1,0 +1,57 @@
+review_0
+https://doi.org/10.1002/14651858.CD012213.pub2
+topic: Oral Health
+Interventions for managing halitosis
+58 exclude
+
+review_1
+https://doi.org/10.1002/14651858.CD011677.pub2
+topic: Public Health
+
+review_2
+https://doi.org/10.1002/14651858.CD012955.pub2
+topic: Developmental, Psychosocial and Learning Problems
+Psychological therapies for people with borderline personality disorder
+67 exclude
+
+review_3
+https://doi.org/10.1002/14651858.CD012424.pub2
+topic: Bone, Joint and Muscle Trauma
+
+review_4
+https://doi.org/10.1002/14651858.CD011673.pub2
+topic: Urology
+Immunotherapy for metastatic renal cell carcinoma
+97 exclude
+
+review_5
+https://doi.org/10.1002/14651858.CD008524.pub4
+topic: Developmental, Psychosocial and Learning Problems
+
+review_6
+https://doi.org/10.1002/14651858.CD012165
+topic: Gynaecology and Fertility
+
+review_7
+https://doi.org/10.1002/14651858.CD013261.pub2
+topic: Gynaecological, Neuro-oncology and Orphan Cancer
+
+review_8
+https://doi.org/10.1002/14651858.CD010981.pub2
+topic: Haematology
+
+review_9
+https://doi.org/10.1002/14651858.CD009149.pub3
+topic: Effective Practice and Organisation of Care
+
+review_10
+https://doi.org/10.1002/14651858.CD003020.pub3
+topic: Drugs and Alcohol
+
+review_11
+https://doi.org/10.1002/14651858.CD002008.pub5
+topic: Cystic Fibrosis and Genetic Disorders
+
+review_12
+https://doi.org/10.1002/14651858.CD013650.pub2
+topic: Stroke/Heart
