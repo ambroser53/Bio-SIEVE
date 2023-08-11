@@ -33,5 +33,5 @@ For ```instruction``` use the following for each task:
 - Outcome Extraction: "Given the abstract, what is the study's Outcome?"
 
 For ```input``` use the following format:
-Include/Exclude/Reasoning: ```Abstract: <x> Objectives: <y> Selection Criteria: z```
-PIO Extraction: ```Abstract: <x>```
+- Include/Exclude/Reasoning: ```Abstract: <x> Objectives: <y> Selection Criteria: z```
+- PIO Extraction: ```Abstract: <x>```
