@@ -18,3 +18,20 @@ python evaluate.py \
 ```
 
 A classification report will be produced providing include and exclude precision, recall and F-1 along with macro performance.
+
+```<dataset>``` files must be in ```.json``` format with keys: ```instruction```, ```input``` and (when training or evaluating) ```output```.
+
+For ```instruction``` use the following for each task:
+
+- Include/Exclude: "Given the abstract, objectives and selection criteria should the study be included or excluded?"
+
+(Multi models only)
+
+- Exclusion Reasoning: "The given abstract has been excluded from this review with the following objectives and selection criteria. Provide an explanation for why the abstract was excluded."
+- Population Extraction: "Given the abstract, what is the study's Population?"
+- Intervention Extraction: "Given the abstract, what is the study's Intervention?"
+- Outcome Extraction: "Given the abstract, what is the study's Outcome?"
+
+For ```input``` use the following format:
+Include/Exclude/Reasoning: ```Abstract: <x> Objectives: <y> Selection Criteria: z```
+PIO Extraction: ```Abstract: <x>```
