@@ -1,4 +1,4 @@
-# Boi-SIEVE
+# Bio-SIEVE
 
 [ADD CITATION HERE WHEN THE PROJECT IS ON ARXIV]
 
@@ -29,10 +29,10 @@ The adapter weights for the 4 best models trained as part of this project can be
 
 | Model | Description | Link |
 | --- | --- | --- |
-| LLaMA7B (single) | Instruction tuned LLaMA7B using include/exclude only samples from the dataset |  |
-| LLaMA7B (multi) | Instruction tuned LLaMA7B using include/exclude, PICO samples and exclusion reasons from the dataset |  |
-| Guanaco7B (single) | Continuation of tuning the Guanaco7B adapter weights using include/exclude only samples from the dataset |  |
-| Guanaco7B (multi) | Continuation of tuning the Guanaco7B adapter weights using include/exclude, PICO samples and exclusion reasons from the dataset |  |
+| LLaMA7B (single) | Instruction tuned LLaMA7B using include/exclude only samples from the dataset | TBD |
+| LLaMA7B (multi) | Instruction tuned LLaMA7B using include/exclude, PICO samples and exclusion reasons from the dataset | TBD |
+| Guanaco7B (single) | Continuation of tuning the Guanaco7B adapter weights using include/exclude only samples from the dataset | [Link](https://huggingface.co/Ambroser53/Bio-SIEVE) |
+| Guanaco7B (multi) | Continuation of tuning the Guanaco7B adapter weights using include/exclude, PICO samples and exclusion reasons from the dataset | [Link](https://huggingface.co/Ambroser53/Bio-SIEVE-Multi) |
 
 ## Dataset
 
